@@ -11,6 +11,8 @@
     height: 10px;
     border: 1px solid #333;
     border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 .lifebar .bar{
@@ -20,7 +22,14 @@
 }
 
 .log {
-    border: 1px dotted #999;
-    height: 200px;
+ 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    flex-direction: column;
+
+    height: 500px;
     overflow-y: scroll;
 }
