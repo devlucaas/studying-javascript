@@ -7,10 +7,9 @@
 
 .verde{
     background-color: aquamarine;
+    color: #000;
 }
-.vermelho{
-    background-color: #FF0000;
-}
-.azul{
-    background-color: blue;
+.preto{
+    background-color: #000;
+    color: aliceblue;
 }
